@@ -1,11 +1,13 @@
 Package: stSimulateR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A Set of Functions for Developing and Running State-and-Transition Simulation (ST-Sim) Models 
+       with SyncroSim software 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Dr. Andrew D. Crosby
+Maintainer: The package maintainer <crosby@ualberta.ca>
+Description: The purpose of this package is to streamle the workflow for 
+defining parameters and loading data to run ST-Sim models in R using the 
+SyncroSim software developed by ApexRMS (https://syncrosim.com/) 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
